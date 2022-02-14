@@ -1,0 +1,24 @@
+{
+  "name": "gitcoin_bounty_bot",
+  "version": "1.0.0",
+  "description": "(IN ACTIVE DEVELOPMENT) This bot will use the Gitcoin API to post new bounties into different D_D channels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danialhasan/Gitcoin_Bounty_Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danialhasan/Gitcoin_Bounty_Bot/issues"
+  },
+  "homepage": "https://github.com/danialhasan/Gitcoin_Bounty_Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
